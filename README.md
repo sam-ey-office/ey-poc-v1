@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# EY.COM Helix POC Site
+This is poc project to build ey.com design with Adobe Helix
 
 ## Environments
 - Preview: https://main--ey-poc-v1--sam-ey-office.hlx.page/
