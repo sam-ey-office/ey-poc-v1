@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--ey-poc-v1--sam-ey-office.hlx.page/
+- Live: https://main--ey-poc-v1--sam-ey-office.hlx.live/
 
 ## Installation
 
